@@ -21,7 +21,7 @@
 
 | Project | Description | Stack | Links |
 |--------|-------------|-------|-------|
-| **HRMS ** | Dashboard with request approval, role logic | React, Tailwind, MUI | (As an intern project)
+| HRMS | Dashboard with request approval, role logic | React, Tailwind, MUI | (As an intern project)
 | **Renewable-systems** | A modern, responsive web application showcasing renewable energy systems and their data visualization | React, MUI | [Code](https://github.com/pprathik07/Renewable-System/) |
 
 ---
