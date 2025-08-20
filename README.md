@@ -31,7 +31,6 @@
 | **Renewable Systems** | 🎨 Frontend | Modern responsive web app for renewable energy data visualization | React, MUI | [Code](https://github.com/pprathik07/Renewable-System/) |
 | **Prompt Regression Tester** | 🤖 AI Automation | Automated LLM testing system detecting model drift & hallucinations | n8n, Gemini, Telegram | [Code](https://github.com/pprathik07/Prompt-Regression-Automation/) |
 | **Media Management Agent** | 🤖 AI Automation | Smart media tracking with auto-metadata & dashboard sync | Zapier, AI, Looker Studio | [Code](https://github.com/pprathik07/media-automation/) |
-
 | **HRMS Dashboard** | 🎨 Frontend | Enterprise dashboard with approval workflows, role-based access | React, TailwindCSS, MUI | |
 
 ---
