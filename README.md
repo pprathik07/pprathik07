@@ -136,15 +136,17 @@ Frontend developer and AI automation specialist with hands-on experience buildin
 
 ---
 
+### 🤝 Let's Connect
+
 <p align="center">
-  <strong>Open to opportunities in AI Full-Stack Development and Automation</strong>
+  🚀 <strong>Actively seeking opportunities in AI Full-Stack Development & AI Automation!</strong>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/prathik-reddy7/">
-    <img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:p.prathikreddy7@gmail.com">
-    <img src="https://img.shields.io/badge/Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Send_Me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
