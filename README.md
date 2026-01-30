@@ -104,6 +104,7 @@ Frontend developer and AI automation specialist with hands-on experience buildin
 > Enterprise sales management system with research workflows and role-based access control.
 > 
 > `React` `TailwindCSS` `Python` `Autogen` `Crewai` `Langchain` `Fastapi` `Docker` `PostgreSQL` `Celery + Redis`
+> 
 > [![View Code](https://img.shields.io/badge/View_Code-6366F1?style=flat-square&logo=github&logoColor=white)](https://github.com/pprathik07/sales_intelligence_agent)
 
 ---
