@@ -1,4 +1,4 @@
-<h1 align="center">Prathik Reddy</h1>
+<h1 align="center">👋 Hey, I'm Prathik Reddy</h1>
 
 <h3 align="center">Frontend Engineer · AI Automation Specialist</h3>
 
@@ -91,39 +91,30 @@ Frontend developer and AI automation specialist with hands-on experience buildin
 
 ---
 
-> **Voice Agent**
+> **Regional Voice Agent**
 > 
 > Python-based conversational AI agent with real-time voice capabilities.
 > 
-> `LiveKit` `Python` `ElevenLabs` `Vapi`
+> `LiveKit` `Python` `ElevenLabs` `Sarvam` `Gemini`
 
 ---
 
-> **HRMS Dashboard**
+> **Sales Intelligence Agent**
 > 
-> Enterprise HR management system with approval workflows and role-based access control.
+> Enterprise sales management system with research workflows and role-based access control.
 > 
-> `React` `TailwindCSS` `MUI`
+> `React` `TailwindCSS` `Python` `Autogen` `Crewai` `Langchain` `Fastapi` `Docker` `PostgreSQL` `Celery + Redis`
+> > [![View Code](https://img.shields.io/badge/View_Code-6366F1?style=flat-square&logo=github&logoColor=white)](https://github.com/pprathik07/sales_intelligence_agent)
 
 ---
 
-> **Prompt Regression Tester**
-> 
-> Automated LLM testing framework for detecting model drift and hallucinations.
-> 
-> `n8n` `Gemini` `Telegram API`
-> 
-> [![View Code](https://img.shields.io/badge/View_Code-6366F1?style=flat-square&logo=github&logoColor=white)](https://github.com/pprathik07/Prompt-Regression-Automation/)
-
----
-
-> **Renewable Systems**
+> **Solar Solutions**
 > 
 > Data visualization web app for renewable energy analytics.
+> `Live: https://www.vajrarenew.com/`
+> `React` `Tailwindcss` `Framer`
 > 
-> `React` `MUI`
-> 
-> [![View Code](https://img.shields.io/badge/View_Code-6366F1?style=flat-square&logo=github&logoColor=white)](https://github.com/pprathik07/Renewable-System/)
+> [![View Code](https://img.shields.io/badge/View_Code-6366F1?style=flat-square&logo=github&logoColor=white)](https://github.com/pprathik07/Solar-Solutions)
 
 ---
 
