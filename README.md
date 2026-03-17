@@ -96,7 +96,7 @@ AI engineer building production agentic systems, voice AI pipelines, and AI-firs
 > `Next.js 14` `TypeScript` `TailwindCSS` `Vercel`
 >
 > [![View Code](https://img.shields.io/badge/View_Code-6366F1?style=flat-square&logo=github&logoColor=white)](https://github.com/pprathik07/Solar-Solutions)
-> [![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://vajra-renew.vercel.app)
+> [![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://vajrarenew.com)
 
 ---
 
