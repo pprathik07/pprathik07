@@ -43,7 +43,7 @@ AI engineer building production agentic systems, voice AI pipelines, and AI-firs
 >
 > `TypeScript` `Next.js 14` `Fastify` `PostgreSQL` `Prisma` `BullMQ` `Redis` `Claude Sonnet` `Gemini` `Vercel` `Railway`
 >
-> `Private repo — demo available on request`
+> `Private repo — [Demo available here](https://www.loom.com/share/c3066174b9db40679cdf4cc36300e6d4)`
 
 ---
 
