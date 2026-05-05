@@ -28,8 +28,7 @@ AI engineer building production agentic systems, voice AI pipelines, and AI-firs
 - **Voice AI**: Production voice agents with LiveKit (WebRTC), Vapi, ElevenLabs, Twilio — multilingual (English, Hindi, Kannada, Telugu)
 - **AI-First Full Stack**: Next.js 14, Fastify, PostgreSQL, Prisma, BullMQ — with multi-model LLM orchestration (Claude Sonnet + Gemini)
 - **Automation**: n8n advanced — custom JS nodes, webhooks, dynamic JS scraping, production workflows
-- Currently building **CodeGuardian** — agentic CVE detection and auto-remediation targeting sub-60s time-to-fix
-- 3rd year B.Tech CS at Jain University, Bangalore
+- Currently freelancing — building and leading AI automation + full-stack systems for businesses across India and UAE
 
 ---
 
@@ -151,7 +150,7 @@ AI engineer building production agentic systems, voice AI pipelines, and AI-firs
 ### 🤝 Let's Connect
 
 <p align="center">
-  🚀 <strong>Open to remote roles in agentic AI engineering and AI-first full stack development</strong>
+  🚀 <strong>Open to select remote freelance projects in agentic AI and AI-first full stack development</strong>
 </p>
 
 <p align="center">
