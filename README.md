@@ -12,6 +12,9 @@
   <a href="https://github.com/pprathik07">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  <a href="https://topmate.io/prathik7">
+    <img src="https://img.shields.io/badge/Book%20a%20Session-6636F1?style=for-the-badge&logoColor=white" alt="Topmate"/>
+  </a>
 </p>
 
 <p align="center">
