@@ -46,7 +46,7 @@ AI engineer building agentic systems, multilingual voice agents, and AI-first fu
 > `Python` `Evals` `LLM-as-judge` `State machines` `pytest` `uv`
 >
 > [![View Code](https://img.shields.io/badge/View_Code-6366F1?style=flat-square&logo=github&logoColor=white)](https://github.com/pprathik07/self-improving-clinic-agent)
-> [!Demo].(https://www.loom.com/share/8bbb9701a85e4be7b87c83f46f1474b3)]
+> [![Demo](https://img.shields.io/badge/Watch_Demo-Loom-625DF5?style=flat-square&logo=loom&logoColor=white)](https://www.loom.com/share/8bbb9701a85e4be7b87c83f46f1474b3)
 ---
 
 > **Multilingual Voice Agent for Solar Lead Qualification** (EN / HI / KN / TE)
