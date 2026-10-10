@@ -58,9 +58,6 @@ AI engineer building agentic systems, multilingual voice agents, and AI-first fu
 > **Measured typical response time: ~1–1.2 s**, tracked per stage (turn detection, LLM first token, TTS) with p50/p90/p99 from call logs.
 >
 > `Python` `LiveKit` `Sarvam` `Cartesia` `Gemini` `FastAPI` `Celery` `PostgreSQL` `Redis`
->
-> `Private repo — [Video walkthrough](ADD_LOOM_LINK_HERE) · code on request`
-
 ---
 
 > **Product Brain: AI-Native Product Management Tool**
